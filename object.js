@@ -1,9 +1,9 @@
 var Tapos={ shart:true, color:'whaite',}
 
 for(let props in Tapos){
-    console.log(props+"="+Tapos[props]);
+        console.log(Tapos[props]);
 }
-var TaposPro={
+let TaposPro={
     color:'red',
     shairt:{
         color:"White",
