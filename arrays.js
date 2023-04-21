@@ -23,10 +23,8 @@
 
 // array de-structuring
 
+// var conutry = ["bang", "paki", "ind",]
 
-var conutry = ["ban", "ind", "paki", "can", "usa"]
+// var[,,a]=conutry
 
-
-var [, b,c,,d]=conutry
-
-console.log(b,c,d)
+// console.log(a)

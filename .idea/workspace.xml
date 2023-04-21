@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71c7d6c6-fd89-42f6-9766-685df7fff2ae" name="Changes" comment="arr">
+    <list default="true" id="253b87e5-a04e-48d1-88fd-39bbe937eac2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/es6 class.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For-Loop-Over-Array" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrays.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +18,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -27,79 +28,42 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="2NonAC8EiqrU5qC9VZL8SbmBRbL" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2OVVftGEiyRY3nvL0sIhE58tyZY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tapos/Desktop/Javascripe/Day-3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;CSS&quot;
-    ]
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="71c7d6c6-fd89-42f6-9766-685df7fff2ae" name="Changes" comment="" />
-      <created>1680339162310</created>
+      <changelist id="253b87e5-a04e-48d1-88fd-39bbe937eac2" name="Changes" comment="" />
+      <created>1681645856247</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680339162310</updated>
-      <workItem from="1680339164182" duration="17041000" />
-      <workItem from="1680414143268" duration="1231000" />
-      <workItem from="1680435157309" duration="1473000" />
+      <updated>1681645856247</updated>
+      <workItem from="1681645869789" duration="761000" />
+      <workItem from="1681646730250" duration="2310000" />
+      <workItem from="1681659152149" duration="917000" />
+      <workItem from="1681871701442" duration="1168000" />
+      <workItem from="1681907580343" duration="61000" />
+      <workItem from="1682056207868" duration="125000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="73b64818-4722-450d-aa4d-a2ed946f7ec4">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="arr" />
-    <option name="LAST_COMMIT_MESSAGE" value="arr" />
   </component>
 </project>
